@@ -8,7 +8,7 @@ nagomedov_user:
     - fullname: Magomed magomedov
     - createhome: True
     - shell: /bin/bash
-    - home: /home/izuev
+    - home: /home/magomedov
     - gid_from_name: True
     - allow_gid_change: True
     - groups:
